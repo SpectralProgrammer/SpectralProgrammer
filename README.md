@@ -10,7 +10,7 @@ A collection of software development, AI/ML, and data-driven projects.
 ## Currently working on
 > Learning **C** · Strengthening programming fundamentals · In progress of switching to/learning neovim ;)
 
-## Get in Touch!
+## Get in Touch! <a href="https://www.linkedin.com/in/shravandevraj/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn"></a>
 Always exploring, learning, and building. Open to connecting and collaborating on meaningful ideas :)
 
 <!--
